@@ -1,0 +1,8 @@
+[
+     {
+             "ID": "9fb1e39c",
+             "Name": "foo",
+             "Type": "bridge",
+             "Endpoints":[{"ID": "c080be979dda", "Name": "lllll2222", "Network": "9fb1e39c"}]
+     }
+]
